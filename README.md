@@ -1,2 +1,4 @@
 # PYTHON_engineering
-# machine learning and data science
+# Machine learning and data science
+
+Personalized investment strategies, risk assessment, portfolio management
