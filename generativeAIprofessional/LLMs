@@ -1,0 +1,29 @@
+UNIT ONE 
+
+>LLM definition. Large Lenguage models 
+>Basics of LLMs
+>Prompting Techniques
+>Training and decoding
+>Dangers of LLMs based Technology Deployment
+>Upcoming cutting Edge Technologies
+
+High lever overview LLM
+  
+  WHAT IS A LARGE LANGUAGE MODEL?
+  A language model (LM) is a probabilistic model of text
+
+  LLM
+  "Large" in "large language model" (LLM) refers to # of parameters; no agreed-upon thershold
+
+
+    >LLM Architectures.
+    What else con LLMs do?
+
+    >Prompting amd training.
+    How do we affect the distribution over the vocabulary?
+
+    >Decoding.
+    How do LLMs generate text using these distributions?
+
+
+//////////
